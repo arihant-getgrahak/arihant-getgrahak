@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arihant-getgrahak
+- 👋 Hi, I’m Arihant Jain
 - 👀 I’m interested in Backend Developement
 - 🌱 I’m currently learning PHP Laravel
 - 📫 How to reach me arihant.jain@getgrahak.in
